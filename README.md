@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarah300921
 - 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning about Fullstack development
 - 💞️ I’m looking to collaborate on IoT
 - 📫 How to reach me 
 
